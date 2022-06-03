@@ -12,8 +12,7 @@ xyz.com adalah perusahan rintisan B2B yang menjual berbagai produk tidak langsun
 5. Seberapa banyak customers yang tetap aktif bertransaksi?
 ## Data
 Data yang saya gunakan saya ambil dari repo kak Fadilah Nur Imani di [*sini*](https://github.com/imfdlh/dqlab/tree/master/data-analysis-for-b2b-retail-customer-analytics).
-
-Saya konfersi ke MySQL dengan bantuan SQLite3 to MySQL by Klemen Tusar, reponya bisa diakses di [*sini*](https://github.com/techouse/sqlite3-to-mysql).
+Saya import ke MySQL dengan bantuan SQLite3 to MySQL by Klemen Tusar, reponya bisa diakses di [*sini*](https://github.com/techouse/sqlite3-to-mysql).
 
 ## Tools
 Python, Jupyter Notebook, MySQL
