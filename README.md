@@ -19,4 +19,6 @@ Saya konfersi ke MySQL dengan bantuan SQLite3 to MySQL by Klemen Tusar, reponya 
 Python, Jupyter Notebook, MySQL
 
 ## Relasi Tabel
-![tabel](https://github.com/mmuchsin/customer-analytics-report/blob/main/images/relasi_table.png)
+![tabel](https://github.com/mmuchsin/customer-analytics-report/blob/main/images/relasi_table.png?raw=true)
+
+## Kesimpulan
